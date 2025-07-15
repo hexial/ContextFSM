@@ -1,0 +1,9 @@
+{
+    "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+    "name": "ContextFSM",
+    "version": "0.1.0",
+    "platforms": "*",
+    "headers": [
+        "src/ContextFSM/StateMachine.hpp"
+    ]
+}
